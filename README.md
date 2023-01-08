@@ -16,7 +16,7 @@ J3リーグ
 
 ### チームカラー
 
-<span style="color: green">緑色</span>
+<font color="green">緑色</font>
 
 ## 所属リーグと年度別成績
 
